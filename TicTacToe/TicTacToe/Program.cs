@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Threading;
-namespace TicTacToe
+using TicTac;
+
+
+namespace TicTac
 {
     class Program
     {
@@ -14,6 +17,9 @@ namespace TicTacToe
             string[] gameBoard = new string[10];
             bool gameOver = false;
             int userInput = 0;
+
+            Supporting s = new Supporting();
+
             while (player < 10)
             {
                 if (player % 2 == 0)
@@ -31,6 +37,11 @@ namespace TicTacToe
                     player++;
                 }
             }
+
+            s.PrintBoard(gameBoard);
+
+
+            
             // for (int i = 0; i < gameBoard.Length; i++ )
             // {
             //     Console.WriteLine(gameBoard[i]);

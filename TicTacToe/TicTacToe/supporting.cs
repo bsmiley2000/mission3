@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TicTacToe
+namespace TicTac
 {
-    class supporting
+    class Supporting
     {
         public void PrintBoard(char[] BoardArray)
         {
