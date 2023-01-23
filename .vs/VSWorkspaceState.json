@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TicTacToe",
+    "\\TicTacToe\\TicTacToe"
   ],
-  "SelectedNode": "\\TicTacToe.sln",
+  "SelectedNode": "\\TicTacToe\\TicTacToe\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
