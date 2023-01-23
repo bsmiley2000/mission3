@@ -1,0 +1,14 @@
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\abigs\Documents\Brock\IS413\Mission3\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
