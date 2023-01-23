@@ -1,6 +1,6 @@
 # mission3
 
-Mission #3 Assignment (Project #1)
+# Mission #3 Assignment (Project #1)
 IS 413 - Hilton
 For this assignment, you will work in your teams to write a game of Tic-Tac-Toe in C#.
 The program will be written in two classes:
