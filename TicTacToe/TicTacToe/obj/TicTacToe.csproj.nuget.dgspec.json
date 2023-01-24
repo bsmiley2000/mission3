@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxsw\\Source\\Repos\\bsmiley2000\\mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\abigs\\Documents\\Brock\\IS413\\Mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxsw\\Source\\Repos\\bsmiley2000\\mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\abigs\\Documents\\Brock\\IS413\\Mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxsw\\Source\\Repos\\bsmiley2000\\mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\abigs\\Documents\\Brock\\IS413\\Mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\maxsw\\Source\\Repos\\bsmiley2000\\mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
-        "packagesPath": "C:\\Users\\maxsw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxsw\\Source\\Repos\\bsmiley2000\\mission3\\TicTacToe\\TicTacToe\\obj\\",
+        "projectPath": "C:\\Users\\abigs\\Documents\\Brock\\IS413\\Mission3\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "packagesPath": "C:\\Users\\abigs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abigs\\Documents\\Brock\\IS413\\Mission3\\TicTacToe\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maxsw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abigs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
